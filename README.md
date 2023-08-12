@@ -1,5 +1,4 @@
 ###   Hi there 👋
-###   Working on a music visualisation app for my uni project
 ### 🌱 I’m currently learning and studying Computer Science and programming
 ### 👯 I’m looking to collaborate on here and/or LinkedIn.
 ### 🤔 I’m looking for help with other programming languages, but starting off with JavaScript.
